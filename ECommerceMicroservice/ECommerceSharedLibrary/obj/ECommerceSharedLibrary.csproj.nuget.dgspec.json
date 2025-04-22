@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TechSphere\\Desktop\\eCommerce-Microservice-Folder\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj": {}
+    "C:\\Users\\TechSphere\\Desktop\\ECommerce-Microservice\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TechSphere\\Desktop\\eCommerce-Microservice-Folder\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj": {
+    "C:\\Users\\TechSphere\\Desktop\\ECommerce-Microservice\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechSphere\\Desktop\\eCommerce-Microservice-Folder\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\TechSphere\\Desktop\\ECommerce-Microservice\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj",
         "projectName": "ECommerceSharedLibrary",
-        "projectPath": "C:\\Users\\TechSphere\\Desktop\\eCommerce-Microservice-Folder\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj",
+        "projectPath": "C:\\Users\\TechSphere\\Desktop\\ECommerce-Microservice\\ECommerceMicroservice\\ECommerceSharedLibrary\\ECommerceSharedLibrary.csproj",
         "packagesPath": "C:\\Users\\TechSphere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechSphere\\Desktop\\eCommerce-Microservice-Folder\\ECommerceMicroservice\\ECommerceSharedLibrary\\obj\\",
+        "outputPath": "C:\\Users\\TechSphere\\Desktop\\ECommerce-Microservice\\ECommerceMicroservice\\ECommerceSharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

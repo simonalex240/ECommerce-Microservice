@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ECommerceSharedLibrary
-build_property.ProjectDir = C:\Users\TechSphere\Desktop\eCommerce-Microservice-Folder\ECommerceMicroservice\ECommerceSharedLibrary\
+build_property.ProjectDir = C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
