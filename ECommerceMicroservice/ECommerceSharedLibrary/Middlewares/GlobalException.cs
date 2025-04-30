@@ -8,20 +8,16 @@ namespace ECommerceSharedLibrary.Middlewares
 {
     public class GlobalException(RequestDelegate next)
     {
-      
+        /* new */
         public async Task InvokeAsync(HttpContext context)
         {
-            
             string title = "Error";
             string message = "Sorry, Internal server Error. Kindly try again";
             int statusCode = (int)HttpStatusCode.InternalServerError;
 
-            
-
             try
             {
                 await next(context);
-               
 
                 if (context.Response.StatusCode == StatusCodes.Status429TooManyRequests)
                 {
@@ -50,7 +46,6 @@ namespace ECommerceSharedLibrary.Middlewares
             }
             catch (Exception ex)
             {
-               
                 Loggers(ex);
 
                 if (ex is TaskCanceledException || ex is TimeoutException)
@@ -59,7 +54,7 @@ namespace ECommerceSharedLibrary.Middlewares
                     message = "Request timeout .. tey again";
                     statusCode = StatusCodes.Status408RequestTimeout;
                 }
-                
+
                 await ModifyHeader(context, title, message, statusCode);
             }
         }
@@ -72,7 +67,7 @@ namespace ECommerceSharedLibrary.Middlewares
         )
         {
             context.Response.ContentType = "application/json";
-            
+
             await context.Response.WriteAsync(
                 JsonSerializer.Serialize(
                     new ProblemDetails()
