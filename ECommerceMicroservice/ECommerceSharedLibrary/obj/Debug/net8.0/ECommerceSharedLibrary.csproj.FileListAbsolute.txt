@@ -11,3 +11,16 @@ C:\Users\TechSphere\Desktop\eCommerce-Microservice-Folder\ECommerceMicroservice\
 C:\Users\TechSphere\Desktop\eCommerce-Microservice-Folder\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\refint\ECommerceSharedLibrary.dll
 C:\Users\TechSphere\Desktop\eCommerce-Microservice-Folder\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.pdb
 C:\Users\TechSphere\Desktop\eCommerce-Microservice-Folder\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ref\ECommerceSharedLibrary.dll
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\bin\Debug\net8.0\ECommerceSharedLibrary.deps.json
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\bin\Debug\net8.0\ECommerceSharedLibrary.dll
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\bin\Debug\net8.0\ECommerceSharedLibrary.pdb
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.csproj.AssemblyReference.cache
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.AssemblyInfoInputs.cache
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.AssemblyInfo.cs
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.sourcelink.json
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.dll
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\refint\ECommerceSharedLibrary.dll
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ECommerceSharedLibrary.pdb
+C:\Users\TechSphere\Desktop\ECommerce-Microservice\ECommerceMicroservice\ECommerceSharedLibrary\obj\Debug\net8.0\ref\ECommerceSharedLibrary.dll
